@@ -4,7 +4,7 @@
 
 ```bash
 # clone application
-git clone git@github.com:asw101/181200-connect.git
+git clone https://github.com/asw101/181200-connect.git
 cd 181200-connect/
 
 # set bash variables
